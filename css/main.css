@@ -1,7 +1,11 @@
 body {
-	background: url(../images/backround.1.jpg);
+	background: url(../images/backround.1.jpg?2);
 }
 
 #content {
 	float: left;
+	margin-left: 160px;
+	margin-top: 160px;
+	font-family: "Helvetica", "Arial", "Verdana", monospace;
+	font-size: 12;
 }
