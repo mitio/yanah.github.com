@@ -1,7 +1,7 @@
 body {
-	background: url(../images/backround.jpg);
+	background: url(../images/backround.1.jpg);
 }
 
 #content {
-	float: right;
+	float: left;
 }
